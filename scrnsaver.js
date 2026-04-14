@@ -76,14 +76,14 @@
       en: 'Screensaver'
     },
     screensaver_enable: {
-      ru: 'Заставка Apple TV',
-      uk: 'Заставка Apple TV',
-      en: 'Apple TV Screensaver'
+      ru: 'Заставка',
+      uk: 'Заставка',
+      en: 'Screensaver'
     },
     screensaver_enable_descr: {
-      ru: 'Аэросъёмки Земли как заставка при бездействии',
-      uk: 'Аерозйомки Землi як заставка при бездiяльностi',
-      en: 'Aerial views of Earth as idle screensaver'
+      ru: 'Заставка при бездействии',
+      uk: 'Заставка при бездiяльностi',
+      en: 'Idle screensaver'
     },
     screensaver_timeout_name: {
       ru: 'Таймаут',
@@ -209,8 +209,8 @@
 
     var videoData = {
       id: 'custom',
-      name: 'Пользовательское видео',
-      accessibilityLabel: 'Пользовательское видео',
+      name: '',
+      accessibilityLabel: '',
       type: 'all',
       src: customVideoBlobUrl,
       pointsOfInterest: {}
